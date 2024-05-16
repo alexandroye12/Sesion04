@@ -1,0 +1,61 @@
+	h1 {
+    color: slateblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3 {
+    color: saddlebrown;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+
+#header_1 {
+	display: flex;
+	justify-content: space-between;
+}
+
+#logo_header {
+	margin-left: 20px;
+}
+
+.class_ul {
+	list-style-type: none;
+}
+
+.class_li {
+	padding: 10px;
+	margin: 10px;
+	width: 100px;
+}
+
+.class_a {
+	text-decoration: none;
+	padding: 10px;
+}
+
+#section_principal {
+	display: flex;
+}
+
+#pos2 {
+	margin-left: 60px;
+	margin-right: 60px;
+	text-align: center;
+}
+
+#pos3 {
+	margin-left: 40px;
+	margin-right: 40px;
+	text-align: center;
+	
+}
+.class_a {
+	color: black;
+}
